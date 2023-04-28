@@ -110,6 +110,18 @@ Relevant Coursework: Finite Element Analysis (FEA) I & II, MATLAB Programming, V
 
 <!-- TOP-FIVE:START -->
 
+<ul>
+<li> <strong> SE143B Aerospace Structural Design IISE143B Aerospace Structural Design II
+ </strong> </li>
+Apr 2021 - Jun 2021
+  <div> Goal :  </div>
+  <div> Link to the project :  </div>
+
+  <li> <strong> SE143A Aerospace Structural Design ISE143A Aerospace Structural Design I </strong> </li>
+Jan 2021 - Mar 2021
+  <div> Goal :  </div>
+  <div> Link to the project :  </div>
+</ul>
 <!-- TOP-FIVE:END -->
 
 <!--More Details: end-->

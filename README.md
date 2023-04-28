@@ -121,6 +121,7 @@ Apr 2021 - Jun 2021
 Jan 2021 - Mar 2021
   <div> Goal :  The goal of this aerospace structural engineering project is to perform theoretical and cost analyses in order to characterize the behavior of different solar sail boom designs. Three designs including CTM, TRAC, and Double-TRAC were investigated. Design 3, that is the Double TRAC, was down-selected after considering cost, feasibility, theoretical analyses, and margins of safety. Oral presentation and multidisciplinary design optimization. Aerospace computer-aided design and analysis tools. Use of computer resources such as Abaqus (FEA), MATLAB programming and Solidworks (CAD). </div>
 - [Link to the project :](https://drive.google.com/file/d/1u52KoOvXfJS3_RzBqWo7iQAn6jB2moVX/view) 
+    - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/5163920324?utm_medium=api&utm_source=rss) by James Clear (⭐️4.38)
 </ul>
 <!-- TOP-FIVE:END -->
 

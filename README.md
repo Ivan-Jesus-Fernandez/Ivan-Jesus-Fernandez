@@ -115,7 +115,7 @@ Relevant Coursework: Finite Element Analysis (FEA) I & II, MATLAB Programming, V
  </strong> </li>
 Apr 2021 - Jun 2021
   <div> <u>Goal <u> :  The goal of this aerospace structural engineering project is to analyze material constraints and costs, determine risks associated with proposed designs, and fabricate the most cost-efficient and safest composite space component– one boom of a solar sail. I also designed the winder mechanism that would be utilized for deployment and testing purposes. Oral presentation and multidisciplinary design optimization. Aerospace computer-aided design and analysis tools. Use of computer resources such as Abaqus (FEA), MATLAB programming and Solidworks (CAD). </div>
- - Link to the project ==>(https://drive.google.com/file/d/1A3IjvfKVOPqHnF6wEejXWqrSUU-QBQAl/view) </div>
+ - Link to the project ==>(https://drive.google.com/file/d/1A3IjvfKVOPqHnF6wEejXWqrSUU-QBQAl/view) 
 
     <li> </li>
   <li> <strong> SE143A Aerospace Structural Design ISE143A Aerospace Structural Design I </strong> </li>

@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div id="badges">
 
-<a href="https://github.com/mralpha786">
+<a href="https://github.com/Ivan-Jesus-Fernandez">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/ivanfernandez760/">

@@ -10,7 +10,7 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-2302569B?style=for-the-badge&logo=C++&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Matlab](https://img.shields.io/badge/Matlab-FF6C37?style=for-the-badge&logo=matlab&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-FF6C37?style=for-the-badge&logo=Matlab&logoColor=white)
 
 
 ### ✍️ Random Dev Quote

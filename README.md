@@ -13,4 +13,4 @@
 ![C++](https://img.shields.io/badge/C++-2302569B?style=for-the-badge&logo=C++&logoColor=black)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

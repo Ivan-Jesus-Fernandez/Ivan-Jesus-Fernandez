@@ -4,14 +4,14 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanfernandez760/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanfernandez760/) [![LinkedIn](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=white)](https://www.linkedin.com/in/ivanfernandez760/) 
 
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Ivan-Jesus-Fernandez) 
 
 # 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C++-2302569B?style=for-the-badge&logo=C++&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Matlab](https://img.shields.io/badge/Matlab-FF6C37?style=for-the-badge&logo=matlab&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2302569B?style=for-the-badge&logo=C++&logoColor=black)
+
 
 ### ✍️ Random Dev Quote
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

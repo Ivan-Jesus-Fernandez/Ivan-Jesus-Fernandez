@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanfernandez760/) [![Github](https://img.shields.io/badge/GitHub-%23000.svg?logo=GitHub&logoColor=white)](https://github.com/Ivan-Jesus-Fernandez/)[![Gmail](https://img.shields.io/badge/Gmail-%23E34F26.svg?logo=Gmail&logoColor=white)](mailto:ivanfernandez760@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E34F26.svg?logo=Gmail&logoColor=white)](mailto:ivanfernandez760@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanfernandez760/) [![Github](https://img.shields.io/badge/GitHub-%23000.svg?logo=GitHub&logoColor=white)](https://github.com/Ivan-Jesus-Fernandez/)
 
 
 ## 💻 Tech. Stack:

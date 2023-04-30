@@ -1,6 +1,6 @@
 ## 🚀 About Me:
 
- 👋 Hi, I am  Ivan Fernandez. <br>👀 I am a dedicated graduate student pursuing a MSc in Mechanical Engineering. <br>🔭 Aiming to expand my expertise in Mechanical Engineering by pursuing education, industry exposure, and research projects...<br> 
+ 👋 Hi, I am  Ivan Fernandez.
 
 
 ## 🌐 Socials:

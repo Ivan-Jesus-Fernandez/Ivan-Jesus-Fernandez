@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 🚀 About Me:
 
  👋 Hi, I am  Ivan Fernandez. <br>👀 I am a dedicated graduate student pursuing a Master of Science in Mechanical Engineering. <br>🔭 My primary goal is to deepen my knowledge of this exciting field through a combination of education, industry experience, and research projects.<br> 
 

@@ -1,6 +1,6 @@
 ## 🚀 About Me:
 
-Hello World, my name is Ivan Fernandez. My educational background includes a Bachelor of Science in Aerospace Structural Engineering and a Master of Science in Mechanical Engineering. I am an experienced developer skilled in C++, Python, MATLAB, Linux and Ubuntu. My interests include, but are not limited to: rocketry; game development; robotics; and ethical hacking. I am passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+Hello World, my name is Ivan Fernandez. My educational background includes a Bachelor of Science in Aerospace Structural Engineering and a Master of Science in Mechanical Engineering. I am an experienced developer skilled in C++, Python, MATLAB, Linux, and Ubuntu. My interests include, but are not limited to: rocketry; game development; robotics; and ethical hacking. I am passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
 
 ## 🌐 Networking:
